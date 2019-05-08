@@ -69,7 +69,11 @@ pod 'GradientHUD'
 
 ## Author
 
-mouhammedali, mouhammedaliamer@gmail.com
+* mouhammedali, mouhammedaliamer@gmail.com
+
+* Check more of my work on [Pintrest](https://pin.it/lowsm3sscypihq)
+
+* Hire me on [Mostaql](https://mostaql.com/u/mouhammed_ali)
 
 ## License
 
