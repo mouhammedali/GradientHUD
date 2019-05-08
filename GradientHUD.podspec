@@ -28,15 +28,8 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/mouhammedali/GradientHUD.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
+  s.source_files =  'Classes/*.{swift}'
+  s.ios.frameworks = 'UIKit', 'Foundation'
 
-  s.source_files = 'GradientHUD/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'GradientHUD' => ['GradientHUD/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end

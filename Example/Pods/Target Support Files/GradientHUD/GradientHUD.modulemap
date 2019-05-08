@@ -1,0 +1,6 @@
+framework module GradientHUD {
+  umbrella header "GradientHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}

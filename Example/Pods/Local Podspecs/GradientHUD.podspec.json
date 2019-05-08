@@ -1,0 +1,28 @@
+{
+  "name": "GradientHUD",
+  "version": "0.1.0",
+  "summary": "A short description of GradientHUD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mouhammedali/GradientHUD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mouhammedali": "mouhammedaliamer@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mouhammedali/GradientHUD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Classes/*.{swift}",
+  "ios": {
+    "frameworks": [
+      "UIKit",
+      "Foundation"
+    ]
+  }
+}
